@@ -1,0 +1,10 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.menu
+{
+  background: whitesmoke;
+  color: #000000de;
+  margin-top: -15px;
+}

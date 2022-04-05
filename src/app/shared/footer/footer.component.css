@@ -1,0 +1,11 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.footer {
+  bottom: 0px;
+  background: #3f51b5;
+  color: #fff;
+  width: 100%;
+  position: absolute;
+}

@@ -1,0 +1,586 @@
+{
+  "signupUsers": [
+    {
+      "fullName": "gautam",
+      "mobile": 333,
+      "email": "prateek.khanna@quovantis.com",
+      "password": "ClarisCC@12345d",
+      "id": 1
+    },
+    {
+      "fullName": "sss",
+      "mobile": 324234,
+      "email": "xes@werw.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "fullName": "TT",
+      "mobile": 1234,
+      "email": "tt@zip.com",
+      "password": "1234",
+      "id": "3"
+    },
+    {
+      "fullName": "krishna",
+      "mobile": 22222,
+      "email": "kr@zip.com",
+      "password": "1234",
+      "id": "N0nGQ8m"
+    }
+  ],
+  "profile": [
+    {
+      "id": "1",
+      "name": "Levi O.",
+      "gender": "Male",
+      "age": "31",
+      "state": "Puna",
+      "country": "India",
+      "hobby": "Music"
+    },
+    {
+      "id": "2",
+      "name": "Mia I.",
+      "gender": "Others",
+      "age": "68",
+      "state": "Raigarh",
+      "country": "India",
+      "hobby": "BasketBall"
+    },
+    {
+      "name": "TT T.",
+      "gender": "Female",
+      "age": "23",
+      "state": "Raigarh",
+      "country": "India",
+      "hobby": "BasketBall",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Charlotte T.",
+      "gender": "Others",
+      "age": "70",
+      "state": "Bombay",
+      "country": "India",
+      "hobby": "Chess"
+    },
+    {
+      "id": "5",
+      "name": "Mia I.",
+      "gender": "Female",
+      "age": "54",
+      "state": "Bombay",
+      "country": "India",
+      "hobby": "Music"
+    },
+    {
+      "id": "6",
+      "name": "Isabella A.",
+      "gender": "Female",
+      "age": "54",
+      "state": "Raigarh",
+      "country": "India",
+      "hobby": "Tennis"
+    },
+    {
+      "id": "7",
+      "name": "Jack T.",
+      "gender": "Female",
+      "age": "10",
+      "state": "Jhansi",
+      "country": "India",
+      "hobby": "Bike Riding"
+    },
+    {
+      "id": "8",
+      "name": "Cora O.",
+      "gender": "Female",
+      "age": "42",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "hobby": "Swimming"
+    },
+    {
+      "id": "9",
+      "name": "Mia O.",
+      "gender": "Others",
+      "age": "53",
+      "state": "Puna",
+      "country": "India",
+      "hobby": "Bike Riding"
+    },
+    {
+      "id": "10",
+      "name": "Cora C.",
+      "gender": "Others",
+      "age": "1",
+      "state": "Raigarh",
+      "country": "India",
+      "hobby": "Chess"
+    },
+    {
+      "id": "11",
+      "name": "Oliver A.",
+      "gender": "Female",
+      "age": "6",
+      "state": "Benagal",
+      "country": "India",
+      "hobby": "Cycling"
+    },
+    {
+      "id": "12",
+      "name": "Theodore J.",
+      "gender": "Male",
+      "age": "91",
+      "state": "Benagal",
+      "country": "India",
+      "hobby": "Chess"
+    },
+    {
+      "id": "13",
+      "name": "Oliver A.",
+      "gender": "Female",
+      "age": "16",
+      "state": "Jhansi",
+      "country": "India",
+      "hobby": "Cycling"
+    },
+    {
+      "id": "14",
+      "name": "Levi L.",
+      "gender": "Male",
+      "age": "100",
+      "state": "Jhansi",
+      "country": "India",
+      "hobby": "Movie"
+    },
+    {
+      "id": "15",
+      "name": "Amelia O.",
+      "gender": "Female",
+      "age": "61",
+      "state": "Puna",
+      "country": "India",
+      "hobby": "Swimming"
+    },
+    {
+      "id": "16",
+      "name": "Violet T.",
+      "gender": "Female",
+      "age": "75",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "hobby": "Music"
+    },
+    {
+      "id": "17",
+      "name": "Mia L.",
+      "gender": "Male",
+      "age": "57",
+      "state": "Delhi",
+      "country": "India",
+      "hobby": "Cycling"
+    },
+    {
+      "id": "18",
+      "name": "Olivia T.",
+      "gender": "Female",
+      "age": "72",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "hobby": "Movie"
+    },
+    {
+      "id": "19",
+      "name": "Cora L.",
+      "gender": "Male",
+      "age": "14",
+      "state": "Bombay",
+      "country": "India",
+      "hobby": "Swimming"
+    },
+    {
+      "id": "20",
+      "name": "Jack T.",
+      "gender": "Male",
+      "age": "66",
+      "state": "Jhansi",
+      "country": "India",
+      "hobby": "Tennis"
+    },
+    {
+      "id": "21",
+      "name": "Theodore I.",
+      "gender": "Male",
+      "age": "41",
+      "state": "Jhansi",
+      "country": "India",
+      "hobby": "Chess"
+    },
+    {
+      "id": "22",
+      "name": "Maia I.",
+      "gender": "Female",
+      "age": "4",
+      "state": "Jhansi",
+      "country": "India",
+      "hobby": "Swimming"
+    },
+    {
+      "id": "23",
+      "name": "Oliver C.",
+      "gender": "Female",
+      "age": "6",
+      "state": "Benagal",
+      "country": "India",
+      "hobby": "Swimming"
+    },
+    {
+      "id": "24",
+      "name": "Elizabeth O.",
+      "gender": "Male",
+      "age": "87",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "hobby": "Cycling"
+    },
+    {
+      "id": "25",
+      "name": "Mia O.",
+      "gender": "Others",
+      "age": "94",
+      "state": "Puna",
+      "country": "India",
+      "hobby": "Music"
+    },
+    {
+      "id": "26",
+      "name": "Arthur I.",
+      "gender": "Female",
+      "age": "37",
+      "state": "Puna",
+      "country": "India",
+      "hobby": "Cycling"
+    },
+    {
+      "id": "27",
+      "name": "Levi V.",
+      "gender": "Others",
+      "age": "4",
+      "state": "Raigarh",
+      "country": "India",
+      "hobby": "Chess"
+    },
+    {
+      "id": "28",
+      "name": "Charlotte O.",
+      "gender": "Male",
+      "age": "78",
+      "state": "Puna",
+      "country": "India",
+      "hobby": "Bike Riding"
+    },
+    {
+      "id": "29",
+      "name": "Violet O.",
+      "gender": "Others",
+      "age": "36",
+      "state": "Raigarh",
+      "country": "India",
+      "hobby": "Movie"
+    },
+    {
+      "id": "30",
+      "name": "Isabella M.",
+      "gender": "Male",
+      "age": "49",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "hobby": "Movie"
+    },
+    {
+      "id": "31",
+      "name": "Cora A.",
+      "gender": "Others",
+      "age": "10",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "hobby": "BasketBall"
+    },
+    {
+      "id": "32",
+      "name": "Arthur T.",
+      "gender": "Male",
+      "age": "40",
+      "state": "Delhi",
+      "country": "India",
+      "hobby": "Tennis"
+    },
+    {
+      "id": "33",
+      "name": "Mia T.",
+      "gender": "Female",
+      "age": "95",
+      "state": "Puna",
+      "country": "India",
+      "hobby": "Bike Riding"
+    },
+    {
+      "id": "34",
+      "name": "Atticus A.",
+      "gender": "Male",
+      "age": "41",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "hobby": "Cycling"
+    },
+    {
+      "id": "35",
+      "name": "Olivia I.",
+      "gender": "Female",
+      "age": "78",
+      "state": "Puna",
+      "country": "India",
+      "hobby": "Cycling"
+    },
+    {
+      "id": "36",
+      "name": "Thomas V.",
+      "gender": "Others",
+      "age": "59",
+      "state": "Delhi",
+      "country": "India",
+      "hobby": "BasketBall"
+    },
+    {
+      "id": "37",
+      "name": "Levi J.",
+      "gender": "Female",
+      "age": "67",
+      "state": "Puna",
+      "country": "India",
+      "hobby": "Swimming"
+    },
+    {
+      "id": "38",
+      "name": "Theodore A.",
+      "gender": "Female",
+      "age": "33",
+      "state": "Delhi",
+      "country": "India",
+      "hobby": "Swimming"
+    },
+    {
+      "id": "39",
+      "name": "Thomas M.",
+      "gender": "Female",
+      "age": "43",
+      "state": "Jhansi",
+      "country": "India",
+      "hobby": "BasketBall"
+    },
+    {
+      "id": "40",
+      "name": "Charlotte I.",
+      "gender": "Male",
+      "age": "52",
+      "state": "Puna",
+      "country": "India",
+      "hobby": "BasketBall"
+    },
+    {
+      "id": "41",
+      "name": "Thomas C.",
+      "gender": "Others",
+      "age": "24",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "hobby": "Bike Riding"
+    },
+    {
+      "id": "42",
+      "name": "Isla O.",
+      "gender": "Others",
+      "age": "45",
+      "state": "Puna",
+      "country": "India",
+      "hobby": "BasketBall"
+    },
+    {
+      "id": "43",
+      "name": "Oliver O.",
+      "gender": "Male",
+      "age": "61",
+      "state": "Delhi",
+      "country": "India",
+      "hobby": "Music"
+    },
+    {
+      "id": "44",
+      "name": "Violet V.",
+      "gender": "Others",
+      "age": "85",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "hobby": "Movie"
+    },
+    {
+      "id": "45",
+      "name": "Elizabeth L.",
+      "gender": "Others",
+      "age": "96",
+      "state": "Jhansi",
+      "country": "India",
+      "hobby": "Tennis"
+    },
+    {
+      "id": "46",
+      "name": "Isla I.",
+      "gender": "Female",
+      "age": "70",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "hobby": "Tennis"
+    },
+    {
+      "id": "47",
+      "name": "Atticus O.",
+      "gender": "Female",
+      "age": "82",
+      "state": "Jhansi",
+      "country": "India",
+      "hobby": "Cycling"
+    },
+    {
+      "id": "48",
+      "name": "Atticus T.",
+      "gender": "Female",
+      "age": "33",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "hobby": "BasketBall"
+    },
+    {
+      "id": "49",
+      "name": "Violet T.",
+      "gender": "Female",
+      "age": "19",
+      "state": "Raigarh",
+      "country": "India",
+      "hobby": "Movie"
+    },
+    {
+      "id": "50",
+      "name": "Jasper J.",
+      "gender": "Female",
+      "age": "14",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "hobby": "Chess"
+    },
+    {
+      "name": "krishna",
+      "gender": "Female",
+      "age": 33,
+      "state": "Dehradun",
+      "country": "Dehradun",
+      "hobby": "Cycling",
+      "id": "N0nGQ8m"
+    }
+  ],
+  "friends": [
+    {
+      "id": "3",
+      "friends": [
+        {
+          "id": "2",
+          "name": "Mia I.",
+          "gender": "Others",
+          "age": "68",
+          "state": "Raigarh",
+          "country": "India",
+          "hobby": "BasketBall"
+        },
+        {
+          "id": "4",
+          "name": "Charlotte T.",
+          "gender": "Others",
+          "age": "70",
+          "state": "Bombay",
+          "country": "India",
+          "hobby": "Chess"
+        },
+        {
+          "id": "5",
+          "name": "Mia I.",
+          "gender": "Female",
+          "age": "54",
+          "state": "Bombay",
+          "country": "India",
+          "hobby": "Music"
+        },
+        {
+          "id": "1",
+          "name": "Levi O.",
+          "gender": "Male",
+          "age": "31",
+          "state": "Puna",
+          "country": "India",
+          "hobby": "Music"
+        },
+        {
+          "id": "13",
+          "name": "Oliver A.",
+          "gender": "Female",
+          "age": "16",
+          "state": "Jhansi",
+          "country": "India",
+          "hobby": "Cycling"
+        },
+        {
+          "id": "15",
+          "name": "Amelia O.",
+          "gender": "Female",
+          "age": "61",
+          "state": "Puna",
+          "country": "India",
+          "hobby": "Swimming"
+        }
+      ]
+    },
+    {
+      "id": "N0nGQ8m",
+      "friends": [
+        {
+          "id": "1",
+          "name": "Levi O.",
+          "gender": "Male",
+          "age": "31",
+          "state": "Puna",
+          "country": "India",
+          "hobby": "Music"
+        },
+        {
+          "id": "2",
+          "name": "Mia I.",
+          "gender": "Others",
+          "age": "68",
+          "state": "Raigarh",
+          "country": "India",
+          "hobby": "BasketBall"
+        },
+        {
+          "id": "5",
+          "name": "Mia I.",
+          "gender": "Female",
+          "age": "54",
+          "state": "Bombay",
+          "country": "India",
+          "hobby": "Music"
+        }
+      ]
+    }
+  ]
+}

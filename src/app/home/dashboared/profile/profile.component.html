@@ -1,0 +1,68 @@
+<div class="row">
+  <app-dashboared></app-dashboared>
+</div>
+
+
+
+<div class="row" style="max-height: 460px;overflow:auto">
+  <div class="col md 6">
+    <div class="card">
+
+
+      <div class="text-center">
+        <h1>{{profileAction}}</h1>
+      </div>
+
+      <form [formGroup]="profileForm">
+        <div class="mb-3">
+          <label for="exampleFullName" class="form-label">Full Name</label>
+          <input formControlName="name" type="text" class="form-control" id="exampleFullName">
+        </div>
+
+        <div class="mb-3">
+          <label id="example-radio-group-label">Gender</label>
+          <mat-radio-group formControlName="gender" aria-labelledby="example-radio-group-label"
+            class="example-radio-group" [(ngModel)]="selectedGender">
+            <mat-radio-button class="example-radio-button" *ngFor="let g of genderOptions" [value]="g"
+              [checked]="g==selectedGender">
+              {{g}}
+            </mat-radio-button>
+          </mat-radio-group>
+        </div>
+
+        <div class="mb-3">
+          <label for="exampleInputAge" class="form-label">Age</label>
+          <input formControlName="age" [maxLength]="2" type="number" class="form-control" id="exampleInputAge">
+        </div>
+
+
+        <div class="mb-3">
+          <label for="exampleInputMobile" class="form-label">State</label>
+          <input formControlName="state" class="form-control" id="exampleInputMobile">
+        </div>
+
+        <div class="mb-3">
+          <label for="exampleInputMobile" class="form-label">Country</label>
+          <input formControlName="country" class="form-control" id="exampleInputMobile">
+        </div>
+
+        <div class="mb-3">
+          <label for="exampleInputhobby" class="form-label">Hobby</label>
+          <input formControlName="hobby" type="text" class="form-control" id="exampleInputhobby">
+        </div>
+      </form>
+
+      <div class="mb-3" style="text-align: center;">
+        <button style="margin-left:10px;" type="submit" class="btn btn-primary"
+          (click)="profileActionHandler()">{{action}}</button>
+        <button style="margin-left:10px;" type="submit" class="btn btn-primary"
+          (click)="deleteProfile()">Delete</button>
+        <button style="margin-left:10px;" type="submit" class="btn btn-primary"
+          (click)="redirectToFindFriend()">Cancel</button>
+      </div>
+
+
+
+
+    </div>
+  </div>
